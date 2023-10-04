@@ -22,3 +22,6 @@ Many thanks to [Darksky.net](http://darksky.net/dev/) team for their awesome API
 
 ***
 based on [kaggle](https://www.kaggle.com/datasets/budincsevity/szeged-weather/data) website.
+***
+
+**Note**: In this Project i used Linear Regression methods in future more regression algorithms will be peformed.
